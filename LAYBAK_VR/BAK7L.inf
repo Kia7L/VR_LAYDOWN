@@ -1,0 +1,8 @@
+[]{
+;Settings.. DELAX... by Kia7L
+;It tells the game to trick it out...
+{
+float BED.HIEGHT=5;(1-10:HIGHT OF BED)
+float LAY.LOW=2;(1-10:POSITION OF ACTIVATING)
+}
+}
