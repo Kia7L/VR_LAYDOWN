@@ -1,5 +1,5 @@
 []{
 ;1
-@<BAK7L.ini>-NUL-<
-@<BAK7L.inf>-NUL-<
+@<BAK7L.ini>
+@<BAK7L.inf>
 }
